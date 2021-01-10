@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Scope
 Sample scope
+
+## Deployment
+Sample deplyment steps

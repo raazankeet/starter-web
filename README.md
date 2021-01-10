@@ -10,9 +10,16 @@ Sample website with plenty of files for demos
 Sample scope
 
 ## Deployment
-Sample deployment steps
+Sample deployment steps, new process
 
 
 ## Installation
 
 Sample Installation steps
+
+## Configuration
+Sample configuration steps
+
+## Uninstall
+
+Sample uninstall steps

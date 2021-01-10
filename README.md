@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 Sample scope
 
 ## Deployment
-Sample deplyment steps
+Sample deployment steps
 
 
 ## Installation

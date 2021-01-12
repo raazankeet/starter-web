@@ -24,6 +24,8 @@ Sample configuration steps
 
 Sample uninstall steps
 
+## Contribute
+Please fork this repository and then issue Pull request for review.
 
 ## Copyright
 2021 All Rights Reserved

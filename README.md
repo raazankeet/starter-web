@@ -23,3 +23,7 @@ Sample configuration steps
 ## Uninstall
 
 Sample uninstall steps
+
+
+## Copyright
+2021 All Rights Reserved
